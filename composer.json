@@ -1,0 +1,13 @@
+{
+    "name": "d8_custom_form_using_validator",
+    "type": "drupal-module",
+    "description": "My Awesome Module",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/d8_custom_form_using_validator",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/d8_custom_form_using_validator",
+        "source": "http://cgit.drupalcode.org/d8_custom_form_using_validator",
+    },
+}

@@ -1,0 +1,7 @@
+d8_custom_form_using_validator.example_form:
+  path: '/d8_custom_form_using_validator/form/example'
+  defaults:
+    _form: '\Drupal\d8_custom_form_using_validator\Form\ExampleForm'
+    _title: 'ExampleForm'
+  requirements:
+    _access: 'TRUE'
